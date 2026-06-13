@@ -10,5 +10,5 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=8500&pause=0&center=true&width=475&lines=I+can't+ignore+you..;Do+anything+for+you..;I+do+adore+you..&color=9798bd" />
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=8500&pause=0&center=true&width=475&lines=I+can't+ignore+you..;Do+anything+for+you..;I+do+adore+you..&color=9e7fbc" />
 </p>
