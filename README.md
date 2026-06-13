@@ -3,6 +3,10 @@
 <!-- start: readme-repos-list -->
 
 <p align="center">
+
+</p>
+
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Upright&duration=7000&pause=450&color=9798bd&center=true&width=475&lines=+Love.;In+my+room.;Love.;In+my+room." />
 </p>
 
